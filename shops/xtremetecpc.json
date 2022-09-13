@@ -1,0 +1,2543 @@
+{
+  "name": "xtremetecpc",
+  "products": [
+    {
+      "name": "Fuente De Poder Acteck Blazar FT500 500W ES-05001",
+      "price": "$349.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/R500-22-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata 2666MHz 4GB PC4-21300 AD4S26664G19-SGN",
+      "price": "$389.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AD4S26664G19-SGN-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Acteck S500 Slim Edge Systems 500W ES-05002",
+      "price": "$399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/fue_acteck_s500-a-150x150.png"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 2666MHz 4GB PC4-21300 KVR26S19S6/4",
+      "price": "$429.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/KVR26S19S6-4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Kingston 1600MHz 4GB PC3L-12800 1.35v KVR16LS11/4WP",
+      "price": "$449.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/KVR16LS11-4WP-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata 2666MHz 4GB PC4-21300 AD4U26664G19-SGN",
+      "price": "$449.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/AD4U26664G19-SGN-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Corsair 4GB 1066MHz Apple Certified CMSA4GX3M1A1066C7",
+      "price": "$449.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/CMSA4GX3M1A1066C7-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Corsair 4GB 1333MHz Apple Certified CMSA4GX3M1A1333C9",
+      "price": "$459.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/CMSA4GX3M1A1333C9-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Corsair 2133MHz 4GB PC4-17000 CMSO4GX4M1A2133C15",
+      "price": "$479.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/CMSO4GX4M1A2133C15-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston 2666MHz 8GB PC4-21300 KVR26N19S8/8",
+      "price": "$479.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/KVR26N19S8-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston 2666MHz 4GB PC4-21300 KVR26N19S6/4",
+      "price": "$499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/KVR26N19S6-4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Corsair 1333MHz 4GB PC3-10600 CMSO4GX3M1A1333C9",
+      "price": "$499.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/CMSO4GX3M1A1333C9-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston 1600MHz 4GB PC3-12800 KVR16N11S8/4WP",
+      "price": "$499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KVR16N11S8-4WP-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG GAMMIX D10 3200MHz 8GB PC4-25600 Roja AX4U32008G16A-SR10",
+      "price": "$539.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U32008G16A-SR10-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG GAMMIX D10 3200MHz 8GB PC4-25600 Negra AX4U32008G16A-SB10",
+      "price": "$539.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U32008G16A-SB10-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Acteck FS650 Blazer SFX Slim 650W AC-933025",
+      "price": "$559.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/AC-933025-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 2666MHz 4GB PC4-21300 Negra KF426C16BB/4",
+      "price": "$559.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF426C16BB-4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata 3200MHz 8GB PC4-25600 AD4S32008G22-SGN",
+      "price": "$559.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AD4S32008G22-SGN-1-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 2666MHz 8GB PC4-21300 KVR26S19S6/8",
+      "price": "$589.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/KVR26S19S6-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3200MHz 4GB PC4-25600 Negra KF432C16BB/4",
+      "price": "$650.00\n$589.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/KF432C16BB-4-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder TrueBasix ATX 500W TB-05003",
+      "price": "$589.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/TB-05003-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Corsair 2133MHz 8GB PC4-17000 CMV8GX4M1A2133C15",
+      "price": "$599.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/CMV8GX4M1A2133C15-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 2666MHz 8GB PC4-21300 Negra KF426C16BB/8",
+      "price": "$810.00\n$609.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF426C16BB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston 2666MHz 8GB PC4-21300 KVR26N19S6/8",
+      "price": "$609.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/KVR26N19S8-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata 2666MHz 8GB PC4-21300 AD4S26668G19-SGN",
+      "price": "$619.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AD4S26668G19-SGN-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 2666MHz 8GB PC4-21300 KVR26S19S8/8",
+      "price": "$619.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/02/KVR26S19S8-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3200MHz 8GB PC4-25600 Negra KF432C16BB/8",
+      "price": "$619.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF432C16BB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Corsair Vengeance 2133MHz 8GB PC4-17000 CMSO8GX4M1A2133C15",
+      "price": "$639.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/CMSO8GX4M1A2133C15-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Corsair 2400MHz 8GB PC4-19200 CMV8GX4M1A2400C16",
+      "price": "$649.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/CMV8GX4M1A2400C16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 3200MHz 8GB PC4-25600 KF432S20IB/8",
+      "price": "$800.00\n$669.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF432S20IB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Kingston HyperX Impact 1600MHz 4GB PC3L-12800 1.35v (HX316LS9IB/4)",
+      "price": "$679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/HX316LS9IB4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Corsair Vengeance 2400MHz 8GB PC4-19200 CMSX8GX4M1A2400C16",
+      "price": "$679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/CMSX8GX4M1A2400C16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Corsair Vengeance LPX 2400MHz 8GB PC4-19200 Negra CMK8GX4M1A2400C16",
+      "price": "$679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/03/CMK8GX4M1A2400C16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Gigabyte 2666MHz 8GB PC4-21300 GP-GR26C16S8K1HU408",
+      "price": "$729.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/05/GP-GR26C16S8K1HU408-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata 2666MHz 8GB PC4-21300 AD4U26668G19-SGN",
+      "price": "$729.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AD4U26668G19-SGN-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston Fury Beast 1600MHz 4GB PC3-12800 Roja KF316C10BR/4",
+      "price": "$739.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF316C10BR-4-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Acteck Z700 Edge Systems 700W ES-05004",
+      "price": "$759.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/Z700-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG GAMMIX D30 3200MHz 8GB PC4-25600 AX4U32008G16A-SR30",
+      "price": "$759.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/AX4U32008G16A-SR30-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D41 3200MHz 8GB PC4-25600 AX4U32008G16A-SB41",
+      "price": "$769.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AX4U32008G16A-SB41-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Corsair Vengeance LPX 3200MHz 8GB PC4-25600 Negra CMK8GX4M1Z3200C16",
+      "price": "$779.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/CMK8GX4M1Z3200C16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston HyperX Fury 1866MHz 4GB Roja (HX318C10FR/4)",
+      "price": "$789.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/08/HX318C10FR4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3200MHz 8GB PC4-25600 AX4U32008G16A-ST50",
+      "price": "$789.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U32008G16A-ST50-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston HyperX Fury 1866MHz 4GB Negra (HX318C10FB/4)",
+      "price": "$789.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/HX316C10FB8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 2666MHz 8GB PC4-21300 KF426C16BBA/8",
+      "price": "$789.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF426C16BBA-8-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK INTEGRA KIRUNA ATX Fuente 500W AC-05008",
+      "price": "$789.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/KIRUNA-01-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG Hunter 3200MHz 8GB PC4-25600 AX4U32008G16A-SBHT",
+      "price": "$789.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/AX4U32008G16A-SBHT-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3L Sodimm Kingston Fury Impact 1600MHz 4GB PC3L-12800 1.35v KF316LS9IB/4",
+      "price": "$799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF316LS9IB-4-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston FURY Renegade RGB 3200MHz 8GB PC4-25600 KF432C16RBA/8",
+      "price": "$799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/KF432C16RBA-8-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK INTEGRA Fusion X GI440 RGB Micro-ATX Fuente 500W AC-929530",
+      "price": "$799.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/FUSION-X-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3200MHz 8GB PC4-25600 AX4U32008G16A-SW50",
+      "price": "$799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U32008G16A-SW50-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian VORTEX 1200 4 Ventilador USB3 LED Rojo YGV-68811",
+      "price": "$799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/VORTEX-1200-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 2666MHz 8GB PC4-21300 KF426S15IB/8",
+      "price": "$819.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF426S15IB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3000MHz 8GB PC4-24000 Negra KF430C15BB/8",
+      "price": "$829.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF430C15BB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Corsair 8GB 1333MHz Apple Certified CMSA8GX3M1A1333C9",
+      "price": "$829.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/CMSA8GX3M1A1333C9-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Corsair 8GB 1600MHz Apple Certified CMSA8GX3M1A1600C11",
+      "price": "$829.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/CMSA8GX3M1A1600C11-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Kingston 1600MHz 8GB PC3-12800 1.5v KVR16S11/8WP",
+      "price": "$849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/KVR16S11-8WP-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder YeYian Raiden Serie 500 500W 80 Plus YFR-45901",
+      "price": "$849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/11/RAIDEN-500-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Kingston 1600MHz 8GB PC3-12800 1.5v KVR16S11/8",
+      "price": "$849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/KVR16S11-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Sodimm Kingston 1600MHz 8GB PC3L-12800 1.35v KVR16LS11/8WP",
+      "price": "$849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/KVR16LS11-8WP-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3000MHz 8GB PC4-24000 AX4U300088G16A-ST50",
+      "price": "$1,000.00\n$849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/AX4U300088G16A-ST50-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3000MHz 8GB PC4-24000 KF430C15BBA/8",
+      "price": "$859.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF430C15BBA-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata XPG Hunter 2666MHz 8GB PC4-21300 AX4S26668G18-SBHT",
+      "price": "$859.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/AX4S26668G18-SBHT-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston 1600MHz 8GB PC3-12800 KVR16N11/8WP",
+      "price": "$859.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/KVR16N11-8WP-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK Ultron X / Osaka RGB Micro-ATX Fuente 500W AC-929547",
+      "price": "$859.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/AC-929547-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Celeron Dual Core G5905 3.50GHz 4MB Socket 1200 BX80701G5905",
+      "price": "$990.00\n$869.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/G5905-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3200MHz 8GB PC4-25600 KF432C16BBA/8",
+      "price": "$869.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF432C16BBA-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston FURY Renegade Black 3600MHz 8GB PC4-28800 KF436C16RB/8",
+      "price": "$1,040.00\n$869.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF436C16RB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D45 3600MHz 8GB PC4-28800 AX4U36008G18I-CBKD45",
+      "price": "$889.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/AX4U36008G18I-CBKD45-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3600MHz 8GB PC4-28800 Negra KF436C17BB/8",
+      "price": "$899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF436C17BB-8-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake TR2 500W TR-500",
+      "price": "$899.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/TR-500-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 450W 450 W3 80 PLUS 100-W3-0450-K1",
+      "price": "$899.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/100-W3-0450-K1-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK INTEGRA ARSEN GI-005 ATX Fuente 500W AC-922722",
+      "price": "$899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/ARSEN-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Celeron Dual Core G5925 3.60GHz 4MB Socket 1200 BX80701G5925",
+      "price": "$1,390.00\n$899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/G5925-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian Gaming Blade 2101 Ventilador LED Rojo USB3 YNH-B2101",
+      "price": "$919.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/11/Blade-2101-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D45G RGB 3600MHz 8GB PC4-28800 AX4U36008G18I-CBKD45G",
+      "price": "$919.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/AX4U36008G18I-CBKD45G-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK INTEGRA NIALL GI-004 ATX Fuente 500W AC-922739",
+      "price": "$929.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/NIALL-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder YeYian Thunder Serie 500 500W 80+ Plus",
+      "price": "$939.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/12/THUNDER-500-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3600MHz 8GB PC4-28800 KF436C17BBA/8",
+      "price": "$949.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF436C17BBA-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 4133MHz 8GB PC4-33000 AX4U41338G19J-ST50",
+      "price": "$959.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U41338G19J-ST50-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake TR2 600W TR-600",
+      "price": "$989.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2015/05/TR-600-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK Bern Micro-ATX Fuente 500W TD-510",
+      "price": "$989.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/BERN-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master Elite 500W MPW-5001-ACAAN1-US",
+      "price": "$999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/MPW-5001-ACAAN1-US-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Gigabyte 550W P550B 80 Bronce GP-P550B",
+      "price": "$1,009.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/GP-P550B-150x150.jpg"
+    },
+    {
+      "name": "Gabinete ACTECK INTEGRA BROKK GI-002 Ventilador Micro-ATX Fuente 500W AC-922760",
+      "price": "$1,019.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/BROKK-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D41 3200MHz 8GB PC4-25600 AX4U32008G16A-ST41",
+      "price": "$1,029.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U32008G16A-ST41-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder XPG PYLON 550W 80 Plus Bronze PYLON550B-BKCUS",
+      "price": "$1,029.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/PYLON550B-BKCUS-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ECS A320AM4-M3D DDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,039.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/11/A320AM4-M3D-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston FURY Renegade RGB 3600MHz 8GB PC4-28800 KF436C16RBA/8",
+      "price": "$1,240.00\n$1,039.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/KF436C16RBA-8-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian HAIZEN 2500 3 Ventiladores LED RGB Vidrio Templado Negro YCH-041520",
+      "price": "$1,049.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/YCH-041520-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian HAIZEN 2500 3 Ventiladores LED RGB Vidrio Templado Blanco YCH-042820",
+      "price": "$1,049.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/YCH-042820-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3000MHz 8GB PC4-24000 AX4U30008G16A-ST60",
+      "price": "$1,049.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U30008G16A-ST60-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston HyperX Impact 2666MHz 8GB PC4-21300 HX426S15IB2/8",
+      "price": "$1,049.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/HX426S15IB2-8-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MWE 550 White V2 550W 80 Plus MPE-5501-ACAAW-US",
+      "price": "$1,049.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/MPE-5501-ACAAW-US-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE GA-A320M-H 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,200.00\n$1,079.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/03/GA-A320M-H-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE GA-A320M-S2H 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,260.00\n$1,079.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/GA-A320M-S2H-1-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake SMART 500W 80 Plus SPD-0500P PS-SPD-0500NPCWUS-W",
+      "price": "$1,079.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/PS-SPD-0500NPCWUS-W-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian Gaming Blade 2100 Ventilador LED Azul USB3",
+      "price": "$1,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/11/Blade-2100-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DMDR4 Adata XPG GAMMIX D30 3200MHz 16GB PC4-25600 AX4U320016G16A-SR30",
+      "price": "$1,300.00\n$1,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U320016G16A-SR30-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME A320M-K 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/10/tar_mad_asus_a320m-k-a-150x150.png"
+    },
+    {
+      "name": "Fuente De Poder YeYian Raiden Serie 650 650W 80 Plus BRONZE Modular YFR-46201",
+      "price": "$1,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/RAIDEN-650-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake SMART 600W 80 Plus SPD-0600P PS-SPD-0600NPCWUS-W",
+      "price": "$1,099.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/PS-SPD-0600NPCWUS-W-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 500W 100-W1-0500-KR 80+ Plus",
+      "price": "$1,109.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/03/fue_evga_500w-b-150x150.png"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3200MHz 8GB PC4-25600 AX4U32008G16A-ST60",
+      "price": "$1,129.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U32008G16A-ST60-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Redragon RGPS-500W 80 Plus Bronze GC-PS001",
+      "price": "$1,129.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/GC-PS001-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 4133MHz 8GB PC4-33000 AX4U41338G19J-ST60",
+      "price": "$1,149.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/AX4U41338G19J-ST60-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Eagle Warrior 600W Yaguaret PW600 80 Plus Bronze PW600ATX82+",
+      "price": "$1,159.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/PW600-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3600MHz 8GB PC4-28800 AX4U360038G18A-ST50",
+      "price": "$1,159.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/AX4U360038G18A-ST50-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 600W 100-W1-0600-K1 80 Plus",
+      "price": "$1,169.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/100-W1-0600-K1-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Corsair Carbide SPEC-04 USB 3.0 Led Rojo Ventilador CC-9011107-WW",
+      "price": "$1,179.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/11/CC-9011107-WW-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 2666MHz 16GB PC4-21300 KVR26S19S8/16",
+      "price": "$1,179.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/KVR26S19S8-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3200MHz 16GB PC4-25600 AX4U320016G16A-ST50",
+      "price": "$1,179.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/AX4U320016G16A-ST50-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston 2666MHz 16GB PC4-21300 KVR26N19S8/16",
+      "price": "$1,300.00\n$1,189.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KVR26N19S8-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3200MHz 16GB PC4-25600 Negra KF432C16BB/16",
+      "price": "$1,189.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/KF432C16BB-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston 2666MHz 16GB PC4-21300 KVR26N19D8/16",
+      "price": "$1,300.00\n$1,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/KVR26N19D816-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Stylos Xzeal XZ130 LED RGB USB3 3 Ventiladores Vidrio Templado Blanco XZCGB06W",
+      "price": "$1,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/XZCGB06W-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian HOLLOW 2500 3 Ventiladores LED RGB Vidrio Templado YGH-49704",
+      "price": "$1,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/YGH-49704-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian HOLLOW 2500 3 Ventiladores LED RGB Vidrio Templado YGH-49703",
+      "price": "$1,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/YGH-49703-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D50 3600MHz 8GB PC4-28800 AX4U36008G18A-ST50",
+      "price": "$1,219.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U36008G18A-ST50-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3600MHz 8GB PC4-28800 AX4U36008G18I-ST60",
+      "price": "$1,229.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/AX4U36008G18I-ST60-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3600MHz 8GB PC4-28800 AX4U36008G18A-ST60",
+      "price": "$1,229.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/AX4U360038G18A-ST60-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox Q300L USB3 Ventilador MCB-Q300L-KANN-S00",
+      "price": "$1,239.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/11/MCB-Q300L-KANN-S00-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 3200MHz 16GB PC4-25600 KVR32S22D8/16",
+      "price": "$1,239.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/KVR32S22D8-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG GAMMIX D10 3200MHz 16GB PC4-25600 Roja AX4U320016G16A-SR10",
+      "price": "$1,400.00\n$1,239.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/AX4U320016G16A-SR10-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG GAMMIX D10 3200MHz 16GB PC4-25600 Negra AX4U320016G16A-SB10",
+      "price": "$1,400.00\n$1,239.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U320016G16A-SB10-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MWE 650 Bronze V2 650W 80 Plus MPE-6501-ACAAB-US",
+      "price": "$1,259.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/MPE-6501-ACAAB-US-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Redragon RGPS-600W 80 Plus Bronze GC-PS002",
+      "price": "$1,259.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/GC-PS002-150x150.jpg"
+    },
+    {
+      "name": "Pantalla de Privacidad para Monitores KENSINGTON K52110WW 19.5 pulgadas Negro",
+      "price": "$1,260.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-KENSINGTON-K52110WW-150x150.jpg"
+    },
+    {
+      "name": "Monitor HIKVISION DS-KH2220",
+      "price": "$1,260.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-HIKVISION-DS-KH2220-150x122.jpg"
+    },
+    {
+      "name": "Procesador Intel Pentium Gold Dual Core G6400 4.0GHz 4MB Socket 1200 BX80701G6400",
+      "price": "$1,269.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/G6400-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston 2666MHz 16GB PC4-21300 KVR26S19D8/16",
+      "price": "$1,279.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/02/KVR26S19D8-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Fury 3733MHz 8GB PC4-29800 HX437C19FB3/8",
+      "price": "$1,279.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/HX437C19FB3-8-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Thermaltake V200 TG Vidrio Templado Ventilador CA-1K8-00M1WN-00",
+      "price": "$1,289.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/CA-1K8-00M1WN-00-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 500 BR 500W 80 PLUS Bronze 100-BR-0500-K1",
+      "price": "$1,309.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/100-BR-0500-K1-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX Series CX450M 450W Modular 80+ Bronce CP-9020101-NA",
+      "price": "$1,319.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/fue_cors_cx450m-a-150x150.png"
+    },
+    {
+      "name": "Gabinete Thermaltake H100 TG Vidrio Templado Ventilador CA-1L4-00M1WN-00",
+      "price": "$1,319.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/CA-1L4-00M1WN-00-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 3200MHz 16GB PC4-25600 KF432S20IB/16",
+      "price": "$1,700.00\n$1,319.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF432S20IB-16-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian ABYSS 2500 3 Ventiladores LED RGB Vidrio Templado Negro YGA-49701",
+      "price": "$1,329.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/YGA-49701-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Gigabyte 650W P650B 80 Bronce GP-P650B",
+      "price": "$1,329.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/GP-P650B-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian ABYSS 2500 3 Ventiladores LED RGB Vidrio Templado Blanco YGA-49702",
+      "price": "$1,329.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/YGA-49702-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D41 3200MHz 16GB PC4-25600 AX4U320016G16A-ST41",
+      "price": "$1,349.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AX4U320016G16A-ST41-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MWE 550 Bronze V2 550W 80 Plus MPE-5501-ACAAB-US",
+      "price": "$1,369.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/MPE-5501-ACAAB-US-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata 2666MHz 16GB PC4-21300 AD4S266616G19-SGN",
+      "price": "$1,369.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AD4S266616G19-SGN-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 650W 100-N1-0650-L1",
+      "price": "$1,379.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/11/100-N1-0650-L1-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 2666MHz 16GB PC4-21300 KF426S16IB/16",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/KF426S16IB-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 2666MHz 16GB PC4-21300 Negra KF426C16BB/16",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/KF426C16BB-16-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B450M H 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/11/B450M-H-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake Smart RGB 600W 80 Plus PS-SPR-0600NHFAWU-1",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/PS-SPR-0600NHFAWU-1-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MWE 650 White V2 650W 80 Plus MPE-6501-ACAAW-US",
+      "price": "$1,399.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/MPE-6501-ACAAW-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 2666MHz 16GB PC4-21300 KF426C16BBA/16",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/KF426C16BBA-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 2666MHz 16GB PC4-21300 Negra KF426C16BB1/16",
+      "price": "$1,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF426C16BB1-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston HyperX Fury 1866MHz 8GB PC3-14900 Azul HX318C10F/8",
+      "price": "$1,409.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/HX318C10F-8-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian ARMAGEDDON 2200 3 Ventiladores LED RGB Vidrio Templado YGA-68809",
+      "price": "$1,419.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/ARMAGEDDON-2200-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3000MHz 16GB PC4-24000 KF430C15BB1A/16",
+      "price": "$1,419.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF430C15BB1A-16-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX550 550W 80+ Bronce CP-9020121-NA",
+      "price": "$1,439.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/fue_cors_cx550-a-150x150.png"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Fury 2400MHz 16GB PC4-19200 Negra HX424C15FB3/16",
+      "price": "$1,449.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/10/HX424C15FB3-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston HyperX Impact 2400MHz 16GB PC4-19200 HX424S15IB2/16",
+      "price": "$1,459.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/HX424S15IB2-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR5 Adata 4800MHz 8GB PC5-38400 AD5U48008G-S",
+      "price": "$1,459.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/AD5U48008G-S-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 600 BR 600W 80 PLUS Bronze 100-BR-0600-K1",
+      "price": "$1,469.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/100-BR-0600-K1-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Thermaltake H200 TG RGB Vidrio Templado Ventilador CA-1M3-00M1WN-00",
+      "price": "$1,469.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/CA-1M3-00M1WN-00-0-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3200MHz 16GB PC4-25600 Negra KF432C16BB1/16",
+      "price": "$1,469.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF432C16BB1-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston Fury Beast 1600MHz 8GB PC3-12800 Negro KF316C10BB/8",
+      "price": "$1,469.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF316C10BB-8-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX Series CX550M 550W Modular 80 Plus Bronce CP-9020102-NA",
+      "price": "$1,479.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/fue_cors_cx550m-a-150x150.png"
+    },
+    {
+      "name": "Gabinete YeYian RAPTURE 2500 LED RGB 3 Ventiladores Vidrio Templado YCH-7S3V-01BK",
+      "price": "$1,489.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/RAPTURE-2500-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Redragon Sideswipe Pro ARGB 4 Ventiladores Vidrio Templado GC-601",
+      "price": "$1,499.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/GC-601-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3 Kingston Fury Beast 1866MHz 8GB PC3-14900 Azul KF318C10B/8",
+      "price": "$1,499.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF318C10B-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 2666MHz 16GB PC4-21300 KF426S15IB1/16",
+      "price": "$1,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF426S15IB1-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR3L Sodimm Kingston Fury Impact 1600MHz 8GB PC3L-12800 1.35v KF316LS9IB/8",
+      "price": "$1,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF316LS9IB-8-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Predator 3600MHz 8GB PC4-28800 HX436C17PB4/8",
+      "price": "$1,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/HX436C17PB4-8-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MasterWatt 550W Modular 80 Plus Bronce MPX-5501-AMAAB-U1",
+      "price": "$1,509.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/MPX-5501-AMAAB-U1-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3200MHz 16GB PC4-25600 AX4U320016G16A-ST60",
+      "price": "$1,519.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/AX4U320016G16A-ST60-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i3 10100F 3.6GHz Quad Core 6MB Socket 1200 BX8070110100F",
+      "price": "$1,539.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/i3-10100F-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE A520M H 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,539.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/A520M-H-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MasterWatt 650W Modular 80 Plus Bronze MPX-6501-AMAAB-U1",
+      "price": "$1,549.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2018/04/MPX-6501-AMAAB-US-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE H410M H V3 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,549.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/H410M-H-V3-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3600MHz 16GB PC4-28800 KF436C18BBA/16",
+      "price": "$1,549.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/KF436C18BBA-16-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i3 10105F 3.7GHz Quad Core 6MB Socket 1200 BX8070110105F",
+      "price": "$1,549.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/i3-10105F-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 2666MHz 16GB PC4-21300 KF426C16BB1A/16",
+      "price": "$1,559.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF426C16BB1A-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3600MHz 16GB PC4-28800 Negra KF436C18BB/16",
+      "price": "$1,559.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF436C18BB-16-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE A520M S2H 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,559.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/A520M-S2H-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Thermaltake V200 TG RGB Vidrio Templado 4 Ventiladores CA-1K8-00M1WN-01",
+      "price": "$1,559.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/CA-1K8-00M1WN-01-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston FURY Renegade RGB 3600MHz 16GB PC4-28800 KF436C16RB1A/16",
+      "price": "$1,569.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/KF436C16RB1A-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Corsair Vengeance LPX 2400MHz 16GB PC4-19200 Kit 2×8 Negra CMK16GX4M2A2400C14",
+      "price": "$1,569.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/CMK16GX4M2A2400C14-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE GT 730 GeForce 2GB GDDR5 GV-N730D5-2GL",
+      "price": "$1,579.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/GV-N730D5-2GL-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 750W 100-N1-0750-L1",
+      "price": "$1,579.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/100-N1-0750-L1-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3200MHz 16GB PC4-25600 KF432C16BB1A/16",
+      "price": "$1,589.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF432C16BB1A-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3200MHz 16GB PC4-25600 KF432C16BBA/16",
+      "price": "$1,589.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/KF432C16BBA-16-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B450M DS3H 4xDDR4 2xPCI-E USB3 Socket AM4",
+      "price": "$1,599.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/B450M-DS3H-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Adata XPG INVADER Vidrio Templado 2 Ventiladores Blanco INVADER-WHCWW",
+      "price": "$1,629.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/INVADER-WHCWW-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Adata XPG INVADER Vidrio Templado 2 Ventiladores Negro INVADER-BKCWW",
+      "price": "$1,629.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/INVADER-BKCWW-150x150.jpg"
+    },
+    {
+      "name": "Memorias Ram DDR4 Sodimm Corsair Vengeance 2400MHz 16GB PC4-19200 Kit 2 x 8 CMSX16GX4M2A2400C16",
+      "price": "$1,659.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/CMSX16GX4M2A2400C16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D45G RGB 3600MHz 16GB PC4-28800 AX4U360016G18I-CBKD45G",
+      "price": "$1,669.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/AX4U360016G18I-CBKD45G-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox MB320L ARGB USB3 2 Ventiladores Vidrio Templado MCB-B320L-KGNN-S02",
+      "price": "$1,679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/MCB-B320L-KGNN-S02-150x150.png"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME B460M-A R2.0 4xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/PRIME-B460M-A-R2.0-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Thermaltake Smart BX1 RGB 650W 80 Plus Bronze PS-SPR-0650NHFABU-1",
+      "price": "$1,689.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/PS-SPR-0650NHFABU-1-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME H410M-A/CSM 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,699.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/PRIME-H410M-A-CSM-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox Lite 3.1 TG USB3 Ventilador Vidrio Templado MCW-L3S3-KGNN-00",
+      "price": "$1,699.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/MCW-L3S3-KGNN-00-150x150.jpg"
+    },
+    {
+      "name": "Gabinete YeYian SHADOW 2200 3 Ventiladores LED RGB Vidrio Templado YGS-68808",
+      "price": "$1,699.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/SHADOW-2200-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 700 BR 700W 80 PLUS Bronze 100-BR-0700-K1",
+      "price": "$1,719.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/100-BR-0700-K1-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASRock B550M-HDV 2xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$1,729.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/B550M-HDV-150x150.png"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE H510M H 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,729.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/H510M-H-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B450M DS3H V2 4xDDR4 2xPCI-E USB3 Socket AM4",
+      "price": "$1,739.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/B450M-DS3H-V2-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D60G 3600MHz 16GB PC4-28800 AX4U360016G18I-ST60",
+      "price": "$1,749.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AX4U360016G18I-ST60-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME H510M-E 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,749.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/PRIME-H510M-E-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder YeYian Raiden Serie 850 850W 80 Plus Gold Modular YFR-46701",
+      "price": "$1,749.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/11/YFR-46701-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MWE 750 Bronze V2 750W 80 Plus MPE-7501-ACAAB-US",
+      "price": "$1,749.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/MPE-7501-ACAAB-US-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus GT 730 GeForce 2GB GDDR5 GT730-SL-2GD5-BRK",
+      "price": "$1,850.00\n$1,779.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/GT730-SL-2GD5-BRK-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Cooler Master MasterWatt 750W Modular 80 Plus Bronze MPX-7501-AMAAB-U1",
+      "price": "$1,799.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/MPX-7501-AMAAB-U1-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX650M 650W 80 Plus Bronce Modular CX Series CP-9020103-NA",
+      "price": "$1,799.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/fue_cors_cx650m-a-150x150.png"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME H410M-E 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,819.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/PRIME-H410M-E-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 600 GD 600W 80 PLUS GOLD 100-GD-0600-V1",
+      "price": "$1,829.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/100-GD-0600-V1-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX Series CX750 750W 80 Plus Bronce CP-9020123-NA",
+      "price": "$1,829.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/02/CP-9020123-NA-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG Hunter 3000MHz 16GB PC4-24000 AX4U300016G16A-SBHT",
+      "price": "$1,839.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4U300016G16A-SBHT-150x150.jpg"
+    },
+    {
+      "name": "Monitor 19 Stylos STPMOT3B LED Widescreen HDMI VGA",
+      "price": "$1,839.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/STPMOT3B-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair CX Series CX750M 750W Modular 80 Plus Bronce CP-9020061-NA",
+      "price": "$1,849.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/fue_cors_cx750m-a-150x150.png"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Fury 3000MHz 16GB PC4-24000 Negra HX430C16FB4/16",
+      "price": "$1,849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/HX430C16FB4-16-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE H510M S2H 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,879.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/H510M-S2H-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder In Win P65F 650W PF Series 80 Plus Gold",
+      "price": "$1,899.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/P65F-150x150.jpg"
+    },
+    {
+      "name": "Memorias Ram DDR4 Corsair Vengeance RGB PRO 2666MHz 16GB PC4-21300 Kit 2×8 Negras CMW16GX4M2A2666C16",
+      "price": "$1,899.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/CMW16GX4M2A2666C16-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Thermaltake S300 TG Vidrio Templado 2 Ventiladores CA-1P5-00M1WN-00",
+      "price": "$1,899.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/CA-1P5-00M1WN-00-150x150.jpg"
+    },
+    {
+      "name": "Monitor 18.5 LG 19M38A LED Widescreen",
+      "price": "$1,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/03/mon_lg_19m37a-b-1-150x150.png"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE H510M S2H V2 2xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/H510M-S2H-V2-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR5 Kingston Fury Beast 4800MHz 16GB PC5-38400 Negra KF548C38BB-16",
+      "price": "$1,989.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/KF548C38BB-16-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox Lite 5 ARGB USB3 4 Ventiladores MCW-L5S3-KGNN-05",
+      "price": "$1,989.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/MCW-L5S3-KGNN-05-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata XPG Hunter 3000MHz 16GB PC4-24000 AX4S300016G17G-SBHT",
+      "price": "$1,999.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/AX4S300016G17G-SBHT-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3000MHz 16GB PC4-24000 Negra KF430C15BB1/16",
+      "price": "$1,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/KF430C15BB1-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Fury 3000MHz 16GB PC4-24000 Negra HX430C15FB3/16",
+      "price": "$1,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/02/HX430C15FB3-16-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B560M DS3H V2 4xDDR4 PCI-E USB3 Socket 1200",
+      "price": "$1,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/B560M-DS3H-V2-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX FURY RGB 2666MHz 16GB PC4-21300 HX426C16FB4A/16",
+      "price": "$2,029.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/HX426C16FB4A-16-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Corsair RMx Series RM550x 550W Modular 80 Plus Gold CP-9020177-NA",
+      "price": "$2,029.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/CP-9020177-NA-150x150.jpg"
+    },
+    {
+      "name": "Monitor. HP V194b",
+      "price": "$2,680.00\n$2,040.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-HP-V194b-150x113.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR5 Kingston Fury Beast 5200MHz 16GB PC5-41600 Negra KF552C40BB-16",
+      "price": "$2,049.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/KF552C40BB-16-150x150.jpg"
+    },
+    {
+      "name": "Monitor HP P204V 20 pulgadas 1600 x 800 Negro",
+      "price": "$2,680.00\n$2,080.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-HP-P204V-150x120.jpg"
+    },
+    {
+      "name": "Memorias Ram DDR4 Corsair Vengeance RGB PRO 3000MHz 16GB PC4-24000 Kit 2×8 Blancas CMW16GX4M2C3000C15W",
+      "price": "$2,089.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/CMW16GX4M2C3000C15W-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Redragon Tailgate RGB 5 Ventiladores Vidrio Templado GC-702",
+      "price": "$2,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/GC-702-150x150.jpg"
+    },
+    {
+      "name": "Monitor ACER 20CH1Q bi 1366 x 768 Pixeles 19.5 pulgadas 5 ms Negro",
+      "price": "$2,320.00\n$2,110.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-ACER-20CH1Q-bi-150x113.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME PRIME B550M-A AC 4xDDR4 PCI-E USB3 Socket AM4",
+      "price": "$2,139.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/05/B550M-A-AC-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX FURY RGB 3200MHz 16GB PC4-25600 HX432C16FB3A/16",
+      "price": "$2,139.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/10/HX432C16FB3A-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston HyperX Fury 3466MHz 16GB PC4-27700 Negra HX434C17FB4/16",
+      "price": "$2,189.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/HX434C17FB4-16-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Adata 3200MHz 32GB PC4-25600 AD4S320032G22-SGN",
+      "price": "$2,219.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/AD4S320032G22-SGN-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Adata XPG SPECTRIX D80 3200MHz 16GB PC4-25600 AX4U3200316G16A-SB80",
+      "price": "$2,219.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/AX4U3200316G16A-SB80-150x150.jpg"
+    },
+    {
+      "name": "Monitor Xzeal XSPMG06B 1920 x 1080 Pixeles 23.8 pulgadas Negro",
+      "price": "$2,230.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-Xzeal-XSPMG06B-150x100.jpg"
+    },
+    {
+      "name": "Monitor LG 20MK400H 1366 x 768 Pixeles 20 pulgadas 2 ms 200 cd / m² Negro",
+      "price": "$2,250.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-20MK400H-150x88.jpg"
+    },
+    {
+      "name": "Tarjeta de Video GIGABYTE GV-N1030D4-2GL PCI Express x16 3.0 GeForce GT 1030 2GB GDDR4 NVIDIA",
+      "price": "$2,260.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-GIGABYTE-GV-N1030D4-2GL-150x147.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B550M DS3H 4xDDR4 2xPCI-E USB3 Socket AM4",
+      "price": "$2,299.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/02/B550M-DS3H-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME B560M-A 4xDDR4 2xPCI-E USB3 Socket 1200",
+      "price": "$2,299.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/PRIME-B560M-A-150x150.jpg"
+    },
+    {
+      "name": "Monitor ACER V206HQL Abi 5 ms 19.5 pulgadas 1600 x 900 Pixeles",
+      "price": "$2,540.00\n$2,300.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/XT-ACER-V206HQL-Abi-150x150.jpg"
+    },
+    {
+      "name": "Monitor ACER V206HQL Ab 1600 x 900 Pixeles 19.5 pulgadas 200 cd / m² 5 ms Negro",
+      "price": "$2,370.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/XT-ACER-V206HQL-Ab-150x113.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 5 4500 Six Core 3.6GHz 8MB Socket AM4 100-100000644BOX",
+      "price": "$2,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/5-4500-150x150.jpg"
+    },
+    {
+      "name": "Monitor IP WiFi HIKVISION DS-HK6320-WTE1",
+      "price": "$2,410.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-HIKVISION-DS-HK6320-WTE1-150x105.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 650 GQ 650W 80 Plus Gold Modular 210-GQ-0650-V10",
+      "price": "$2,439.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/210-GQ-0650-V1-150x150.jpg"
+    },
+    {
+      "name": "Monitor 21.5 pulgadas ACER V226HQL 1920 x 1080 Pixeles 21.5 pulgadas 250 cd / m² 5 ms Negro",
+      "price": "$2,890.00\n$2,490.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-ACER-V226HQL-150x113.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox MB530P USB3 3 Ventiladores Vidrio Templado MCB-B530P-KHNN-S01",
+      "price": "$2,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/MCB-B530P-KHNN-S01-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i3 12100F 3.3GHz Quad Core 12MB Socket 1700 BX8071512100F",
+      "price": "$2,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/i3-12100F-150x150.png"
+    },
+    {
+      "name": "Monitor VORAGO LED-W21-300 21.5 pulgadas 250 cd / m² 2 ms 1920 x 1080 Pixeles Negro",
+      "price": "$2,580.00\n$2,510.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/XT-VORAGO-LED-W21-300-150x150.jpg"
+    },
+    {
+      "name": "Monitor LED LG 22MP400-B 21.5 pulgadas 150 cd/m²/ 200 cd/m 1 ms 1920 x 1080 Pixeles Negro",
+      "price": "$2,530.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-LG-22MP400-B-150x100.jpg"
+    },
+    {
+      "name": "Monitor LG 22MK400H-B.AWM 21.5 pulgadas 1920 x 1080 Pixeles Negro",
+      "price": "$2,530.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-LG-22MK400H-B.AWM_-150x116.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i3 10100 3.6GHz Quad Core 6MB Socket 1200 BX8070110100",
+      "price": "$2,599.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/10/I3-10100-150x150.jpg"
+    },
+    {
+      "name": "Monitor AOC 24B2XHM 1920 x 1080 Pixeles 250 cd / m² 6 ms Negro",
+      "price": "$3,560.00\n$2,620.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-AOC-24B2XHM-150x113.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox TD500 ARGB USB3 4 Ventiladores MCB-D500D-KANN-S01",
+      "price": "$2,669.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/MCB-D500D-KANN-S01-150x150.jpg"
+    },
+    {
+      "name": "Gabinete Cooler Master MasterBox TD500 Mesh White USB3 3 Ventiladores Vidrio Templado Blanco MCB-D500D-WGNN-S01",
+      "price": "$2,669.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/MCB-D500D-WGNN-S01-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3200MHz 32GB PC4-25600 Negra KF432C16BB/32",
+      "price": "$3,000.00\n$2,699.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/11/KF432C16BB-32-150x150.jpg"
+    },
+    {
+      "name": "Monitor ACTECK Captive Vivid SP240 1920 x 1080 Pixeles 5-8 ms 200-250 cd 23.8 pulgadas Negro",
+      "price": "$2,720.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-ACTECK-Captive-Vivid-SP240-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 9400 2.9GHz Six Core 9MB Socket 1151-v2",
+      "price": "$2,829.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/i5-9400-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 10400F 2.9GHz Six Core 12MB Socket 1200 BX8070110400F",
+      "price": "$2,849.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/10/i5-10400F-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Sodimm Kingston Fury Impact 2666MHz 32GB PC4-21300 KF426S16IB/32",
+      "price": "$2,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF426S16IB-32-150x150.jpg"
+    },
+    {
+      "name": "Monitor AOC 22B2HN 1920 x 1080 Pixeles 250 cd / m² 6 ms Negro",
+      "price": "$3,260.00\n$2,950.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/XT-AOC-22B2HN-150x118.jpg"
+    },
+    {
+      "name": "Fuente De Poder EVGA 650 G5 SUPERNOVA 650W 80 PLUS Gold Modular 220-G5-0650-X1",
+      "price": "$2,959.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/220-G5-0650-X1-150x150.png"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 2666MHz 32GB PC4-21300 KF426C16BBA/32",
+      "price": "$2,959.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF426C16BBA-32-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i3 10105 3.7GHz Quad Core 6MB Socket 1200 BX8070110105",
+      "price": "$2,989.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/i3-10105-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3000MHz 32GB PC4-24000 KF430C16BBA/32",
+      "price": "$3,100.00\n$2,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF430C16BBA-32-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast 3000MHz 32GB PC4-24000 Negra KF430C16BB/32",
+      "price": "$3,019.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/KF430C16BB-32-150x150.jpg"
+    },
+    {
+      "name": "Memoria Ram DDR4 Kingston Fury Beast RGB 3200MHz 32GB PC4-25600 KF432C16BBA/32",
+      "price": "$3,149.00\n$3,049.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/KF432C16BBA-32-150x150.jpg"
+    },
+    {
+      "name": "Monitor VORAGO LED-W23.8-400F 1920 x 1080 Pixeles 23.8 pulgadas Negro",
+      "price": "$3,070.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-VORAGO-LED-W23.8-400F-150x150.jpg"
+    },
+    {
+      "name": "DELL 1920 x 1080 Pixeles 22 pulgadas 5 ms Negro",
+      "price": "$3,080.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/XT-DELL-150x150.jpg"
+    },
+    {
+      "name": "Fuente De Poder Gigabyte 1000W P1000M 80 Plus Gold GP-P1000GM",
+      "price": "$3,260.00\n$3,099.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/GP-P1000GM-150x150.jpg"
+    },
+    {
+      "name": "Monitor ASUS VP228HE 1 ms 200 cd/㎡ 21.5 pulgadas 1920 x 1080 Pixeles",
+      "price": "$3,150.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-ASUS-VP228HE-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LF22T350FHLXZX 1920 x 1080 Pixeles 5(GTG) 22 pulgadas Negro",
+      "price": "$3,150.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-SAMSUNG-LF22T350FHLXZX-150x120.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 10400 2.9GHz Six Core 12MB Socket 1200 BX8070110400",
+      "price": "$3,500.00\n$3,189.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/10/i5-10400-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 3 4350G QuadCore 3.8GHz 6MB Socket AM4 100-100000148MPK OEM SIN CAJA",
+      "price": "$3,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/3-4350G-1-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 5 5600G Six Core 3.9GHz 19MB Socket AM4 100-100000252BOX",
+      "price": "$5,000.00\n$3,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/5-5600G-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 5 4600G Six Core 3.7GHz 8MB Socket AM4 100-100000147BOX",
+      "price": "$3,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/5-4600G-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE B660M DS3H DDR4 PCI-E USB3 Socket 1700",
+      "price": "$3,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/B660M-DS3H-DDR4-150x150.jpg"
+    },
+    {
+      "name": "Monitor LED LG 24MP400 1920 x 1080 Pixeles 24 pulgadas 5 ms Negro",
+      "price": "$3,770.00\n$3,230.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-LG-24MP400-150x100.jpg"
+    },
+    {
+      "name": "Monitor ACER K242HYL Full HD 23.8 pulgadas 1 ms 1920 x 1080 Pixeles",
+      "price": "$3,540.00\n$3,230.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-ACER-K242HYL-150x100.jpg"
+    },
+    {
+      "name": "Monitor ACER V247Y Abi 1920 x 1080 Pixeles 23.8 pulgadas 4 ms 250 cd / m² Negro",
+      "price": "$3,470.00\n$3,230.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-ACER-V247Y-Abi-150x113.jpg"
+    },
+    {
+      "name": "Monitor LED LG 22MP410 1920 x 1080 Pixeles 22 pulgadas 5 ms Negro",
+      "price": "$3,240.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-22MP410-150x100.jpg"
+    },
+    {
+      "name": "Tarjeta De Vídeo AMD Radeon Sapphire RX 550 OC Pulse 4GB GDDR5 PCI-E (11268-01-20G)",
+      "price": "$3,299.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2017/05/tar_vid_sap_11268-01-20g-a-150x150.png"
+    },
+    {
+      "name": "Monitor 21.5 Xzeal XSPMG01B Negro, Plata 21.5 pulgadas 5 ms 1920 x 1080 Pixeles",
+      "price": "$3,350.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-Xzeal-XSPMG01B-150x113.jpg"
+    },
+    {
+      "name": "Monitor 23.8 HUAWEI AD80HW LED Widescreen HDMI 53060068",
+      "price": "$3,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/AD80HW-150x150.jpg"
+    },
+    {
+      "name": "Monitor HP P24v G4 1920 x 1080 Pixeles 24 pulgadas Negro",
+      "price": "$3,960.00\n$3,400.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-HP-P24v-G4-150x110.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LC24F396FHLXZX 1920 x 1080 Pixeles 4 (GTG) 24 pulgadas 250 cd / m² Negro",
+      "price": "$3,470.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-SAMSUNG-LC24F396FHLXZX-150x120.jpg"
+    },
+    {
+      "name": "Monitor LG 24MP60G-B.AWM 23.8 pulgadas 200 cd / m² 2560 x 1080 Pixeles Negro",
+      "price": "$4,510.00\n$3,470.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/XT-LG-24MP60G-B.AWM_-150x117.jpg"
+    },
+    {
+      "name": "Monitor 24 BenQ GL2480 LED 1ms Widescreen HDMI",
+      "price": "$3,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/GL2480-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video PNY QUADRO T400 2GB QUADRO T400 NVIDIA",
+      "price": "$3,560.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-PNY-QUADRO-T400-150x150.jpg"
+    },
+    {
+      "name": "Monitor DELL E2216HV 21.5 pulgadas 1920 x 1080 Pixeles",
+      "price": "$3,590.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/XT-DELLEMC-E2216HV-150x129.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 11400F 2.6GHz Six Core 12MB Socket 1200 BX8070811400F",
+      "price": "$3,599.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/i5-11400F-150x150.jpg"
+    },
+    {
+      "name": "Monitor 23.8 Xzeal XZMXZ05B 1920 x 1080 Pixeles 23.8 pulgadas 5 ms Negro",
+      "price": "$3,620.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-Xzeal-XZMXZ05B-150x150.jpg"
+    },
+    {
+      "name": "Monitor DELL Negro 5 ms 1366 x 768 Pixeles 19 pulgadas Negro",
+      "price": "$3,630.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/XT-DELL-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME X570-P 4xDDR4 2xPCI-E USB3 Socket AM4",
+      "price": "$3,649.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/09/PRIME-X570-P-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LC24F390FHLXZX 1920 x 1080 Pixeles 23.5 pulgadas 4 ms 250 cd / m² Negro",
+      "price": "$3,670.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LC24F390FHLXZX-150x117.jpg"
+    },
+    {
+      "name": "Monitor 23.8 BenQ GW2480 LED Widescreen HDMI DisplayPort 60Hz",
+      "price": "$4,250.00\n$3,699.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/GW2480-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre GIGABYTE Z590 GAMING X 4xDDR4 2xPCI-E USB3 Socket 1200",
+      "price": "$4,700.00\n$3,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/Z590-GAMING-X-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta Madre ASUS PRIME Z590M-PLUS 4xDDR4 2xPCI-E USB3 Socket 1200",
+      "price": "$3,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/Z590M-PLUS-150x150.jpg"
+    },
+    {
+      "name": "Monitor Xzeal XZMXZ35B 1 ms 23.8 pulgadas Negro",
+      "price": "$3,910.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-Xzeal-XZMXZ35B-150x150.jpg"
+    },
+    {
+      "name": "Monitor DELL E2222H 1920 x 1080 Pixeles 21.5 pulgadas Negro",
+      "price": "$3,940.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-DELL-E2222H-150x150.jpg"
+    },
+    {
+      "name": "MONITOR GAMING AOC 24G2 1920 x 1080 Pixeles 250 cd / m² 23.8 pulgadas",
+      "price": "$5,090.00\n$3,950.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-AOC-24G2-150x105.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 12400F 2.5GHz Six Core 18MB Socket 1700 BX8071512400F",
+      "price": "$3,979.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/i5-12400F-150x150.jpg"
+    },
+    {
+      "name": "Monitor DELL E2422H 1920 x 1080 Pixeles 23.8 pulgadas Negro",
+      "price": "$4,010.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-DELL-E2422H-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LF24T350FHLXZX 1920 x 1080 Pixeles 5(GTG) 24 pulgadas Negro",
+      "price": "$4,020.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-SAMSUNG-LF24T350FHLXZX-150x115.jpg"
+    },
+    {
+      "name": "Monitor LED LG UltraGearTM GAMING LED 24 pulgadas 1 ms 300 cd / m² 1920 x 1080 Pixeles",
+      "price": "$5,450.00\n$4,090.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-UltraGearTM-GAMING-150x100.jpg"
+    },
+    {
+      "name": "Monitor DELL E2422HS 1920 x 1080 Pixeles 23.8 pulgadas 250 cd / m² Negro",
+      "price": "$4,150.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-DELL-E2422HS-150x150.jpg"
+    },
+    {
+      "name": "Monitor 23.8 LG 24MP60G-B LED Gaming 1ms Widescreen HDMI DisplayPort",
+      "price": "$4,169.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/24MP60G-B-150x150.jpg"
+    },
+    {
+      "name": "Monitor ASUS VG24VQ1B 1920 x 1080 Pixeles 23.8 pulgadas 1 ms 350 cd / m² Negro",
+      "price": "$4,420.00\n$4,190.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/XT-ASUS-VG24VQ1B-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video AMD WX 2100 GDDR5 Radeon™ Pro 2GB AMD",
+      "price": "$4,200.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-AMD-WX-2100-150x65.jpg"
+    },
+    {
+      "name": "Monitor Balam Rush MTX24G 23.8 pulgadas 1920 x 1080 Pixeles",
+      "price": "$4,210.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-Balam-Rush-MTX24G-150x150.jpg"
+    },
+    {
+      "name": "Monitor Profesional SAMSUNG LS24A310NHLXZX 200 cd / m² 24 pulgadas 1920 x 1080 Pixeles",
+      "price": "$4,300.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-SAMSUNG-LS24A310NHLXZX-150x126.jpg"
+    },
+    {
+      "name": "Monitor LED LG 26WQ500 2560 x 1080 Pixeles 26 Pulgadas 250 cd / m² 5 ms Negro",
+      "price": "$4,710.00\n$4,340.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-LG-26WQ500-150x100.jpg"
+    },
+    {
+      "name": "Monitor 27 BenQ GL2780 LED 1ms Widescreen HDMI DisplayPort",
+      "price": "$4,349.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/GL2780-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 27MK430H-B.AWM 1920 x 1080 Pixeles 27 pulgadas 5 ms Negro",
+      "price": "$4,570.00\n$4,470.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-27MK430H-B.AWM_-150x115.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LC27F390FHLXZX 1920 x 1080 Pixeles 27 pulgadas 4 ms 250 cd / m² Negro",
+      "price": "$4,470.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LC27F390FHLXZX-150x62.jpg"
+    },
+    {
+      "name": "Monitor ASUS VP249QGR 1920 x 1080 Pixeles 23.8 pulgadas 1 ms 250 cd / m² Negro",
+      "price": "$4,880.00\n$4,480.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-ASUS-VP249QGR-150x109.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 5 5600X SixCore 3.7GHz 35MB Socket AM4 100-100000065BOX",
+      "price": "$4,489.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/5-5600X-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 5 3600 SixCore 3.6GHz 35MB Socket AM4 100-100000031BOX",
+      "price": "$4,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/08/5-3600-2-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 9600K 3.7GHz Six Core 9MB Socket 1151-v2",
+      "price": "$4,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/01/i5-9600K-150x150.jpg"
+    },
+    {
+      "name": "Monitor ASUS VA24DQSBY 1920 x 1080 Pixeles 23.8 pulgadas 250 cd / m² 5 ms Negro",
+      "price": "$4,510.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-ASUS-VA24DQSBY-150x114.jpg"
+    },
+    {
+      "name": "Monitor LG 27MP60G-B.AWM Negro, Rojo 27 pulgadas 5 ms 1920 x 1080 Pixeles",
+      "price": "$5,000.00\n$4,540.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-27MP60G-B.AWM_-150x117.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia PNY GTX 1650 4GB GeForce GDDR6 VCG16504D6DFPPB",
+      "price": "$4,599.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/VCG16504D6DFPPB-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Phoenix GTX 1050 Ti 4GB GeForce GDDR5 PH-GTX1050TI-4G",
+      "price": "$4,599.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/PH-GTX1050TI-4G-150x150.png"
+    },
+    {
+      "name": "Monitor ASUS BE24EQK 23.8 pulgadas Negro",
+      "price": "$4,620.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-ASUS-BE24EQK-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 12400 2.5GHz Six Core 18MB Socket 1700 BX8071512400",
+      "price": "$4,649.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/i5-12400-150x150.jpg"
+    },
+    {
+      "name": "Monitor 23.6 LG 24GL600F-B LED 144Hz 1ms UltraGear Gaming Full HD",
+      "price": "$4,679.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/24GL600F-B-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 27MK600M 1920 x 1080 Pixeles 27 pulgadas 250 cd / m² 5 ms Negro",
+      "price": "$4,840.00\n$4,750.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-27MK600M-150x119.jpg"
+    },
+    {
+      "name": "Tarjeta de video GIGABYTE GIGABYTE GV-N1656OC-4GD REV2.0 NVIDIA GTX 1650 GDDR6 4 GB",
+      "price": "$4,790.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-GIGABYTE-GV-N1656OC-4GD-REV2.0-150x150.jpg"
+    },
+    {
+      "name": "Monitor 27 YeYian SIGURD 3001 Gaming LED Curvo 165Hz 1ms HDMI DisplayPort YMC-70102",
+      "price": "$4,889.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/06/SIGURD-3001-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 10600K 4.1GHz Six Core 12MB Socket 1200 BX8070110600K",
+      "price": "$4,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/09/i5-10600K-150x150.jpg"
+    },
+    {
+      "name": "Monitor Balam Rush MTX27G 1920 x 1080 Pixeles 1 – 2 ms 27 pulgadas",
+      "price": "$4,910.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-Balam-Rush-MTX27G-150x150.jpg"
+    },
+    {
+      "name": "Monitor Gaming Balam Rush UltraOdissey MTX27G 27 pulgadas 1 – 2 ms 1920 x 1080 Pixeles",
+      "price": "$4,910.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-Balam-Rush-UltraOdissey-MTX27G-116x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video PNY Quadro T600 PCI Express 3.0 Quadro T600 GDDR6 4 GB",
+      "price": "$4,920.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-PNY-Quadro-T600-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 11400 2.6GHz Six Core 12MB Socket 1200 BX8070811400",
+      "price": "$4,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/07/i5-11400-150x150.jpg"
+    },
+    {
+      "name": "Monitor Redragon Ruby 23.8 pulgadas 1 ms",
+      "price": "$5,070.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-Redragon-Ruby-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Phoenix GTX 1650 OC 4GB GeForce GDDR6 PH-GTX1650-O4GD6",
+      "price": "$5,149.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/PH-GTX1650-O4GD6-150x150.jpg"
+    },
+    {
+      "name": "Monitor Curvo Balam Rush UltraEarth MTX27C 27 pulgadas 1 – 2 ms 1920 x 1080 Pixeles",
+      "price": "$5,210.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-Balam-Rush-UltraEarth-MTX27C-116x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 11600K 3.9GHz Six Core 12MB Socket 1200 BX8070811600K",
+      "price": "$5,249.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/i5-11600K-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 17MB15T-B 1280 x 1024 Pixeles 17 pulgadas 250 cd / m² 5 ms Negro",
+      "price": "$5,350.00\n$5,260.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/plugins/woocommerce/assets/images/placeholder.png"
+    },
+    {
+      "name": "Monitor ASUS VG247Q1A 350 cd / m² 23.8 pulgadas 1 ms 1920 x 1080 Pixeles",
+      "price": "$5,330.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/XT-ASUS-VG247Q1A-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Dual GTX 1650 4GB GeForce GDDR5 DUAL-GTX1650-4G",
+      "price": "$5,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/DUAL-GTX1650-4G-150x150.jpg"
+    },
+    {
+      "name": "Monitor DELL P2422H 24 pulgadas 1920 x 1080 Pixeles",
+      "price": "$5,410.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-DELL-P2422H-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 29WP500-B.AWM 2560 x 1080 Pixeles 200 cd / m² 5 ms 29 pulgadas",
+      "price": "$5,750.00\n$5,430.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-LG-29WP500-B.AWM_-150x90.jpg"
+    },
+    {
+      "name": "Monitor DELL P2222H 21.5 pulgadas 1920 x 1080 Pixeles",
+      "price": "$5,440.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/XT-DELL-P2222H-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 32MN500M-B.AWM 31.5 pulgadas 5 ms 1920 x 1080 Pixeles Negro",
+      "price": "$6,040.00\n$5,490.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-LG-32MN500M-B.AWM_-150x109.jpg"
+    },
+    {
+      "name": "Monitor LG ULTRAGEAR FHD165HZ 1920 x 1080 Pixeles 27 pulgadas 200 cd / m² 5 ms Negro",
+      "price": "$6,040.00\n$5,560.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-ULTRAGEAR-FHD165HZ-150x100.jpg"
+    },
+    {
+      "name": "Monitor GAME FACTOR MG-700 1 ms 27 pulgadas 2560 x 1440 Pixeles",
+      "price": "$5,740.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-GAME-FACTOR-MG-700-150x114.jpg"
+    },
+    {
+      "name": "Monitor 27 Gigabyte G27FC A Gaming LED Curvo FHD 165Hz 1ms HDMI DisplayPort",
+      "price": "$5,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/G27FC-A-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia ZOTAC GTX 1650 AMP GDDR6 GeForce 4GB ZT-T16520D-10L",
+      "price": "$5,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/ZT-T16520D-10L-150x150.jpg"
+    },
+    {
+      "name": "Monitor GAME FACTOR MG650 QuadHD 2 ms 27 pulgadas",
+      "price": "$5,850.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/XT-GAME-FACTOR-MG650-150x150.jpg"
+    },
+    {
+      "name": "Monitor Touch Screen Nextep 8 ms 15 pulgadas 1024 x 768 Pixeles",
+      "price": "$5,850.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-Nextep-150x150.jpg"
+    },
+    {
+      "name": "Monitor 24 BenQ Zowie XL2411P e-Sports LED Widescreen HDMI DisplayPort 144Hz 1ms",
+      "price": "$5,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/XL2411P-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 7 5800X Octa Core 3.8GHz 36MB Socket AM4 100-100000063WOF",
+      "price": "$6,600.00\n$5,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/7-5800X-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 7 5700G Octa Core 3.8GHz 20MB Socket AM4 100-100000263BOX",
+      "price": "$6,149.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/08/7-5700G-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia ZOTAC RTX 2060 GDDR6 GeForce 6GB ZT-T20600H-10M",
+      "price": "$6,159.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/ZT-T20600H-10M-150x150.jpg"
+    },
+    {
+      "name": "Monitor SMART SAMSUNG LS24AM506NLXZX 1920 x 1080 Pixeles 24 pulgadas 250 cd / m² 14 ms Negro",
+      "price": "$6,160.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-SAMSUNG-LS24AM506NLXZX-150x124.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i7 10700F 2.9GHz Octa Core 12MB Socket 1200 BX8070110700F",
+      "price": "$6,189.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/01/i7-10700F-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 7 5700X Octa Core 3.4GHz 32MB Socket AM4 100-100000926WOF",
+      "price": "$6,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/7-5700X-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE GTX 1660 Ti OC 6G GeForce 6GB GDDR6 GV-N166TOC-6GD",
+      "price": "$6,299.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/03/GV-N166TOC-6GD-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Dual GTX 1650 OC 4GB GeForce GDDR5 DUAL-GTX1650-O4G",
+      "price": "$6,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/DUAL-GTX1650-O4G-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE GTX 1660 OC 6G GeForce 6GB GDDR5 GV-N1660OC-6GD",
+      "price": "$6,700.00\n$6,429.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/04/GV-N1660OC-6GD-150x150.jpg"
+    },
+    {
+      "name": "Monitor ASUS VG249Q 250 cd / m² 23.8 pulgadas 1 ms 1920 x 1080 Pixeles",
+      "price": "$6,440.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-ASUS-VG249Q-150x135.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LS24A600NWLXZX 2560 x 1440 Pixeles 24 pulgadas 300 cd / m² 5 ms Negro",
+      "price": "$6,480.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-SAMSUNG-LS24A600NWLXZX-150x112.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i5 12600K 3.7GHz 10 Core 20MB Socket 1700 BX8071512600K",
+      "price": "$6,700.00\n$6,499.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/i5-12600K-150x150.jpg"
+    },
+    {
+      "name": "Monitor 31.5 YeYian SIGURD 3500 Gaming LED Curvo 165Hz 1ms HDMI DisplayPort YMC-70201",
+      "price": "$6,659.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/02/SIGURD-3500-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i7 11700F 2.5GHz Octa Core 16MB Socket 1200 BX8070811700F",
+      "price": "$6,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/i7-11700F-150x150.jpg"
+    },
+    {
+      "name": "Monitor Curvo SAMSUNG LC32R500FHLXZX 32 pulgadas 1920 x 1080 Pixeles",
+      "price": "$6,910.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LC32R500FHLXZX-150x115.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE RTX 2060 D6 6G GeForce 6GB GDDR6 GV-N2060D6-6GD",
+      "price": "$10,600.00\n$6,959.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/GV-N2060D6-6GD-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LC27T550FDLXZX LED 27 pulgadas 1920 x 1080 Pixeles",
+      "price": "$7,030.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LC27T550FDLXZX-150x100.jpg"
+    },
+    {
+      "name": "Monitor LG 27GP750-B Negro, Rojo 27 pulgadas 1 ms 1920 x 1080 Pixeles",
+      "price": "$9,960.00\n$7,130.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/XT-LG-27GP750-B-150x100.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia ZOTAC RTX 2060 Twin Fan Gaming GeForce 12GB GDDR6 ZT-T20620F-10M",
+      "price": "$7,689.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/ZT-T20620F-10M-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video AMD Radeon Gigabyte RX 6600 EAGLE 8G 8GB GDDR6 GV-R66EAGLE-8GD",
+      "price": "$7,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/GV-R66EAGLE-8GD-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i7 11700K 3.6GHz Octa Core 16MB Socket 1200 BX8070811700K",
+      "price": "$7,799.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/i7-11700K-150x150.jpg"
+    },
+    {
+      "name": "Monitor LED LG 32GN600-B 2560 x 1440 Pixeles 280 cd/㎡ 31.5 pulgadas 1 ms Negro",
+      "price": "$9,500.00\n$7,920.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-LG-32GN600-B-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 34WP500-B.AWM 5 ms 34 pulgadas 250 cd / m² 2560 x 1080 Pixeles",
+      "price": "$8,270.00\n$7,940.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-LG-34WP500-B.AWM_-150x95.jpg"
+    },
+    {
+      "name": "Tarjeta de Video GIGABYTE GV-N3050EAGLE OC-8GD GDDR6 GeForce RTX 3050 PCI-e 4.0 x 16 8 GB",
+      "price": "$7,950.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-GIGABYTE-GV-N3050EAGLE-OC-8GD-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i7 11700 2.5GHz Octa Core 16MB Socket 1200 BX8070811700",
+      "price": "$7,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/04/i7-11700-150x150.jpg"
+    },
+    {
+      "name": "Monitor 31.5 Gigabyte G32QC A Gaming LED Curvo QHD 165Hz 1ms HDMI DisplayPort",
+      "price": "$8,499.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/G32QC-A-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LU32J590UQLXZX 4 ms 270 cd/m2 32 pulgadas 3840 x 2160 Pixeles",
+      "price": "$8,590.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LU32J590UQLXZX-150x115.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia EVGA RTX 3050 XC GAMING 8GB GDDR6 GeForce 08G-P5-3553-KR",
+      "price": "$8,599.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/08G-P5-3553-KR-150x148.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LU28R550UQLXZX 28 pulgadas 4K 3840 x 2160 Pixeles",
+      "price": "$9,120.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LU28R550UQLXZX-150x100.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 7 3800X EightCore 3.9GHz 36MB Socket AM4",
+      "price": "$9,199.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2019/11/7-3800X-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i7 12700K 3.6GHz 12 Core 25MB Socket 1700 BX8071512700K",
+      "price": "$9,229.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/i7-12700K-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 7 3800XT Octa Core 3.9GHz 36MB Socket AM4",
+      "price": "$9,259.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/10/7-3800XT-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i9 11900K 3.5GHz Octa Core 16MB Socket 1200 BX8070811900K",
+      "price": "$9,599.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/i9-11900K-150x150.jpg"
+    },
+    {
+      "name": "Procesador Intel Core i9 10900F 2.8GHz 10 Core 20MB Socket 1200 BX8070110900F",
+      "price": "$9,749.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2020/12/i9-10900F-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de video GIGABYTE GV-N3060GAMING OC-12G GDDR6 12 GB",
+      "price": "$10,060.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-GIGABYTE-GV-N3060GAMING-OC-12G-150x128.jpg"
+    },
+    {
+      "name": "Monitor Gaming UltraWide LG 34GL750 2560 x 1080 Pixeles 300 cd / m² LED 34 pulgadas",
+      "price": "$11,980.00\n$10,490.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-LG-34GL750-150x100.jpg"
+    },
+    {
+      "name": "Monitor LED LG 34WP65C-B 3440 x 1440 Pixeles 34 pulgadas 5 ms Negro",
+      "price": "$10,710.00\n$10,590.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/06/XT-LG-34WP65C-B-150x100.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 9 5900X Doce Núcleos 3.7GHz 70MB Socket AM4 100-100000061WOF",
+      "price": "$10,699.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/9-5900X-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Phoenix RTX 3050 8GB GeForce GDDR6 PH-RTX3050-8G",
+      "price": "$11,299.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/PH-RTX3050-8G-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 32UK580-B 3840 x 2160 Pixeles 32 pulgadas 4 ms Negro",
+      "price": "$12,040.00\n$11,680.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-LG-32UK580-B-150x100.jpg"
+    },
+    {
+      "name": "Tarjeta de Video PNY Quadro RTX A2000 NVIDIA Quadro RTX A2000 PCI Express 4.0 GDDR6 6 GB",
+      "price": "$11,950.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-PNY-Quadro-RTX-A2000-150x150.jpg"
+    },
+    {
+      "name": "Monitor 27 Aorus CV27Q Gaming LED Curvo QHD 165Hz 1ms HDMI DisplayPort",
+      "price": "$11,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/CV27Q-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Phoenix GTX 1660 SUPER OC 6GB GeForce GDDR6 PH-GTX1660S-O6G",
+      "price": "$12,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/PH-GTX1660S-O6G-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE GTX 1660 Ti D6 6G GeForce 6GB GDDR6 GV-N166TD6-6GD",
+      "price": "$12,899.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/GV-N166TD6-6GD-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE GTX 1660 SUPER OC 6G GeForce 6GB GDDR6 GV-N166SOC-6GD",
+      "price": "$12,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/02/GV-N166SOC-6GD-150x150.jpg"
+    },
+    {
+      "name": "Monitor MATE VIEW GT 34 Sound Edition HUAWEI 53060208 350 cd / m² 34 pulgadas 3440 x 1440 Pixeles",
+      "price": "$14,430.00\n$13,160.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-HUAWEI-53060208-150x150.jpg"
+    },
+    {
+      "name": "Procesador AMD Ryzen 9 5950X Dieciseis Nucleos 3.4GHz 70MB Socket AM4 100-100000059WOF",
+      "price": "$13,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/03/9-5950X-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LS34A650UXLXZX 3440 x 1440 Pixeles 34 pulgadas 300 cd / m² 5 ms Negro",
+      "price": "$13,530.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-SAMSUNG-LS34A650UXLXZX-150x120.jpg"
+    },
+    {
+      "name": "Monitor 34 Cooler Master GM34-CW LED 144Hz 1ms HDMI DisplayPort CMI-GM34-CW-US",
+      "price": "$15,000.00\n$14,149.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/10/CMI-GM34-CW-US-150x150.jpg"
+    },
+    {
+      "name": "Monitor SMART SAMSUNG LS32BM801ULXZX 4 ms 32 pulgadas 3840 x 2160 Pixeles",
+      "price": "$15,140.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/08/XT-SAMSUNG-LS32BM801ULXZX-150x100.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE RTX 3060 EAGLE OC 12G REV 2.0 GeForce 12GB GDDR6 GV-N3060EAGLE OC-12GD",
+      "price": "$16,299.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/GV-N3060EAGLE-OC-12GD-R2.0-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video GIGABYTE GV-N3070GAMING OC-8GD Rev 2.0 NVIDIA PCI-e 4.0 x 16 GeForce RTX 3070 GDDR6 8 GB",
+      "price": "$16,900.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-GIGABYTE-GV-N3070GAMING-OC-8GD-Rev-2.0-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video AMD Radeon Gigabyte RX 6700 XT GAMING OC 12G 12GB GDDR6 GV-R67XTGAMING OC-12GD",
+      "price": "$22,000.00\n$16,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/05/GV-R67XTGAMING-OC-12GD-150x150.jpg"
+    },
+    {
+      "name": "Monitor LG 34GN850-B.AWM 3440 x 1440 Pixeles 34 pulgadas Negro",
+      "price": "$24,220.00\n$17,380.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2021/12/XT-LG-34GN850-B.AWM_-150x109.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus ROG Strix RTX 3060 V2 OC 12GB GDDR6 GeForce ROG-STRIX-RTX3060-O12G-V2-GAMING",
+      "price": "$18,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/ROG-STRIX-RTX3060-O12G-V2-GAMING-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Dual RTX 3060 Ti V2 8GB GeForce GDDR6 DUAL-RTX3060TI-8G-V2",
+      "price": "$18,999.00",
+      "stock": false,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/03/DUAL-RTX3060TI-8G-V2-150x150.jpg"
+    },
+    {
+      "name": "Monitor SAMSUNG LC34J791WTLXZX 3440 x 1440 Pixeles 34 pulgadas 4 ms 300 cd / m² Plata",
+      "price": "$19,350.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-SAMSUNG-LC34J791WTLXZX-150x100.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia GIGABYTE RTX 3060 Ti GAMING OC 8G GeForce 8GB GDDR6 GV-N306TGAMING OC-8GD",
+      "price": "$22,499.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/GV-N306TGAMING-OC-8GD-150x150.jpg"
+    },
+    {
+      "name": "Monitor Profesional SAMSUNG QM55R-B 3840 x 2160 Pixeles 500 nits 55 pulgadas 8 ms Negro",
+      "price": "$25,320.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/04/XT-SAMSUNG-QM55R-B-150x100.jpg"
+    },
+    {
+      "name": "Monitor 43 Aorus FV43U Gaming LED UHD 4K 144Hz 1ms HDMI DisplayPort",
+      "price": "$26,900.00\n$25,999.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/FV43U-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video Nvidia Asus Dual RTX 3070 V2 OC 8GB GDDR6 GeForce DUAL-RTX3070-O8G-V2",
+      "price": "$26,399.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/01/DUAL-RTX3070-O8G-V2-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video PNY VCNRTXA4000-PB GDDR6 Quadro RTX A4000 PCI Express 4.0 16 GB",
+      "price": "$26,450.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-PNY-VCNRTXA4000-PB-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video ASUS TUF-RTX3080-12G-GAMING NVIDIA GeForce RTX 3080 GDDR6X PCI Express 4.0 12 GB",
+      "price": "$29,300.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/07/XT-ASUS-TUF-RTX3080-12G-GAMING-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta De Video ASUS TUF-RTX3080TI-O12G-GAMING NVIDIA GeForce RTX 3080 GDDR6X PCI Express 4.0 12 GB",
+      "price": "$36,280.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-ASUS-TUF-RTX3080TI-O12G-GAMING-150x141.jpg"
+    },
+    {
+      "name": "Tarjeta De Video ASUS TUF-RX6900XT-O16G-GAMING AMD RX 6900 XT GDDR6 16 GB",
+      "price": "$38,130.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/05/XT-ASUS-TUF-RX6900XT-O16G-GAMING-150x150.jpg"
+    },
+    {
+      "name": "Tarjeta de Video PNY VCNRTXA5000-PB PCI Express 4.0 Quadro RTX A5000 GDDR6",
+      "price": "$58,040.00",
+      "stock": true,
+      "image": "https://www.xtremetecpc.com/wp-content/uploads/2022/09/XT-PNY-VCNRTXA5000-PB-150x150.jpg"
+    }
+  ]
+}
