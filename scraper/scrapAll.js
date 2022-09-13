@@ -1,4 +1,4 @@
-const shops = require("./infoShops.JS")
+const shops = require("./infoShops.js")
 const { chromium } = require("playwright")
 const fs = require("fs")
 
